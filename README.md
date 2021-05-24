@@ -1,4 +1,8 @@
-### Hi there 👋
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48317736/119319036-58e8f600-bc50-11eb-8ed0-8aab3a4ae2fc.gif)
+![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
+
 
 <!--
 **EullerHenrique/EullerHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

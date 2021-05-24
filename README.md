@@ -1,5 +1,5 @@
 ![GIF 24-05-2021 15-07-35](https://user-images.githubusercontent.com/48317736/119389363-e56fd480-bca1-11eb-821a-df1d6857b9e9.gif)
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/48317736/119319036-58e8f600-bc50-11eb-8ed0-8aab3a4ae2fc.gif)
+![GIF 24-05-2021 15-16-48](https://user-images.githubusercontent.com/48317736/119390272-2ae0d180-bca3-11eb-9072-6e92a34e4fd3.gif)
 ![GIF 24-05-2021 15-07-35](https://user-images.githubusercontent.com/48317736/119389363-e56fd480-bca1-11eb-821a-df1d6857b9e9.gif)
 
 

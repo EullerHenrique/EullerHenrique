@@ -18,10 +18,6 @@
 
 ### Languages and Tools: 
 
-### Languages and Tools: 
-
-### Languages and Tools: 
-
 <img align="left" width="35px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/c.svg">
 <img align="left" width="35px" src="https://user-images.githubusercontent.com/48317736/119421863-11a54880-bcd6-11eb-856a-d02c49ccbaef.png">
 <img align="left" width="35px" src="https://user-images.githubusercontent.com/48317736/119421173-7b245780-bcd4-11eb-9b7d-55429bb70eb2.png">

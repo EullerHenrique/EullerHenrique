@@ -20,6 +20,8 @@
 
 ### Languages and Tools: 
 
+### Languages and Tools: 
+
 <img align="left" width="35px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/c.svg">
 <img align="left" width="35px" src="https://user-images.githubusercontent.com/48317736/119421863-11a54880-bcd6-11eb-856a-d02c49ccbaef.png">
 <img align="left" width="35px" src="https://user-images.githubusercontent.com/48317736/119421173-7b245780-bcd4-11eb-9b7d-55429bb70eb2.png">
@@ -27,12 +29,11 @@
 <img align="left" width="35px" src="https://user-images.githubusercontent.com/48317736/119421171-7b245780-bcd4-11eb-8997-b817d3a6dc1a.png">
 <img align="left" width="35px" src="https://user-images.githubusercontent.com/48317736/119421538-4bc21a80-bcd5-11eb-9527-83b3181c9edd.png">
 <img align="left" width="37" src="https://user-images.githubusercontent.com/48317736/119421667-9b084b00-bcd5-11eb-9780-2ae32f561025.png">
-<img align="left" width="45px" src="https://user-images.githubusercontent.com/48317736/119422124-b889e480-bcd6-11eb-9d0c-c6bfb934e42f.png">
+<img align="left" width="45px" src="https://user-images.githubusercontent.com/48317736/119422124-b889e480-bcd6-11eb-9d0c-c6bfb934e42f.png" />
 <img align="left" width="40x" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg">
 <img align="left" width="40px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg">
 <img align="left" width="45px" src="https://user-images.githubusercontent.com/48317736/119423179-0e5f8c00-bcd9-11eb-980a-e8b3349d02ce.png">
-<img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119423087-dce6c080-bcd8-11eb-8415-ab95724dc5a6.png">
-
+<img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119423268-45ce3880-bcd9-11eb-95f6-d80e84093b85.png">
 
 
 

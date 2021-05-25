@@ -31,7 +31,7 @@
 <img align="left" width="40px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg">
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119423482-c55c0780-bcd9-11eb-95df-4fa5e8f9064e.png">
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119423760-6fd42a80-bcda-11eb-8861-18a2920c9ebf.png">
-<img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119424210-64353380-bcdb-11eb-86fb-b4118c7c82bf.png">
+<img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119424303-8f1f8780-bcdb-11eb-885d-6804d4308bfb.png">
 <img align="left" width="45px" src="https://user-images.githubusercontent.com/48317736/119423179-0e5f8c00-bcd9-11eb-980a-e8b3349d02ce.png">
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119423268-45ce3880-bcd9-11eb-95f6-d80e84093b85.png">
 

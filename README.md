@@ -3,7 +3,7 @@
 ![GIF 24-05-2021 15-07-35](https://user-images.githubusercontent.com/48317736/119389363-e56fd480-bca1-11eb-821a-df1d6857b9e9.gif)
 
 <p>
-  <h4 align="center"><b>"I only know that I know nothing - Sócrates"</b></h4>
+  <h4 align="center"><b>"I only know that I know nothing - Socrates"</b></h4>
 </p>
 
 

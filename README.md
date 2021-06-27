@@ -20,7 +20,7 @@
 
 ### I am a Student Of Information Systems
 - 🌱 I’m currently learning Spring
-- .
+- 📖 I'm currently reading Clean Code - Robert C. Martin   
 - .
 - .
 - .

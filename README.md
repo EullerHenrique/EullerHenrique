@@ -18,7 +18,7 @@
 
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
-### I am a Student Of Information Systems
+### I am a Student of Information Systems at the Federal University of Uberlândia
 - 🌱 I’m currently learning Spring
 - 📖 I'm currently reading Clean Code - Robert C. Martin   
 - 📚 I'm currently studying the subjects:

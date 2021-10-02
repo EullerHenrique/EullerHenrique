@@ -12,7 +12,7 @@
   -   Economy
   -   Database 2
   -   Algorithm analysis
--  <a href="https://www.linkedin.com/in/euller-henrique/"><img src="https://user-images.githubusercontent.com/48317736/119419795-66929000-bcd1-11eb-8ae9-cad609aa6790.png" height="40px;" alt="LinkedIn" /></a>&nbsp;
+-  <a href="https://www.linkedin.com/in/eullerhenrique/"><img src="https://user-images.githubusercontent.com/48317736/119419795-66929000-bcd1-11eb-8ae9-cad609aa6790.png" height="40px;" alt="LinkedIn" /></a>&nbsp;
 
 ### Languages and Tools: 
 

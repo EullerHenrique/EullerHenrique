@@ -1,12 +1,5 @@
 ![GIF 24-05-2021 15-30-59](https://user-images.githubusercontent.com/48317736/126079719-eaec3a88-e881-4294-ac3f-5a0d4ce2f3ea.gif)
 
-<p align="center">
-  
-  <br>
-  <a href="https://www.linkedin.com/in/euller-henrique-2b3ba5188/"><img src="https://user-images.githubusercontent.com/48317736/119419795-66929000-bcd1-11eb-8ae9-cad609aa6790.png" height="40px;" alt="LinkedIn" /></a>&nbsp;
-  
-</p>
-
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ### I am a Student of Information Systems at the Federal University of Uberlândia
@@ -19,6 +12,8 @@
   -   Economy
   -   Database 2
   -   Algorithm analysis
+
+-  <a href="https://www.linkedin.com/in/euller-henrique-2b3ba5188/"><img src="https://user-images.githubusercontent.com/48317736/119419795-66929000-bcd1-11eb-8ae9-cad609aa6790.png" height="40px;" alt="LinkedIn" /></a>&nbsp;
 
 <br>
 

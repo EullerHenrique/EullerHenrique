@@ -15,10 +15,7 @@
 
 -  <a href="https://www.linkedin.com/in/euller-henrique-2b3ba5188/"><img src="https://user-images.githubusercontent.com/48317736/119419795-66929000-bcd1-11eb-8ae9-cad609aa6790.png" height="40px;" alt="LinkedIn" /></a>&nbsp;
 
-<br>
-
 ### Languages and Tools: 
-
 
 <img align="left" width="35px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/c.svg">
 <img align="left" width="35px" src="https://user-images.githubusercontent.com/48317736/119421863-11a54880-bcd6-11eb-856a-d02c49ccbaef.png">

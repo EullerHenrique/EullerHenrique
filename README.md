@@ -13,12 +13,12 @@
 - 🌱 I’m currently learning Spring and Node
 - 📖 I'm currently reading Clean Code - Robert C. Martin   
 - 📚 I'm currently studying the subjects:
-- -   Computer network
-- -   Software modeling
-- -   Information organization and retrieval 
-- -   Economy
-- -   Database 2
-- -   Algorithm analysis
+  -   Computer network
+  -   Software modeling
+  -   Information organization and retrieval 
+  -   Economy
+  -   Database 2
+  -   Algorithm analysis
 
 <br>
 

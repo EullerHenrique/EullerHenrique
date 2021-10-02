@@ -50,7 +50,9 @@
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119423268-45ce3880-bcd9-11eb-95f6-d80e84093b85.png">
 
 
+![Snake animation](https://github.com/EullerHenrique/EullerHenrique/blob/output/github-contribution-grid-snake.svg)
 
+ 
 <!--
 **EullerHenrique/EullerHenrique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

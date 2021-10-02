@@ -1,11 +1,7 @@
-![GIF 24-05-2021 15-07-35](https://user-images.githubusercontent.com/48317736/119389363-e56fd480-bca1-11eb-821a-df1d6857b9e9.gif)
-
+![GIF 24-05-2021 15-30-59](https://user-images.githubusercontent.com/48317736/126079719-eaec3a88-e881-4294-ac3f-5a0d4ce2f3ea.gif)
 <p>
   <h4 align="center"><b>"I only know that I know nothing - Socrates"</b></h4>
 </p>
-
-![GIF 24-05-2021 15-30-59](https://user-images.githubusercontent.com/48317736/126079719-eaec3a88-e881-4294-ac3f-5a0d4ce2f3ea.gif)
-
 
 <p align="center">
   

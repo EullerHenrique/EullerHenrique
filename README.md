@@ -3,15 +3,11 @@
 <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 ### I am a Student of Information Systems at the Federal University of Uberlândia
-- 🌱 I’m currently learning Spring and Node
 - 📖 I'm currently reading Clean Code - Robert C. Martin   
 - 📚 I'm currently studying the subjects:
-  -   Computer network
-  -   Software modeling
-  -   Information organization and retrieval 
-  -   Economy
-  -   Database 2
-  -   Algorithm analysis
+  - Distributed systems
+  - Optimization
+  - Software Engineering
 -  <a href="https://www.linkedin.com/in/eullerhenrique/"><img src="https://user-images.githubusercontent.com/48317736/119419795-66929000-bcd1-11eb-8ae9-cad609aa6790.png" height="40px;" alt="LinkedIn" /></a>&nbsp;
 
 ### Languages and Tools: 

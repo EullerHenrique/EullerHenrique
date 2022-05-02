@@ -26,7 +26,7 @@
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119421538-4bc21a80-bcd5-11eb-9527-83b3181c9edd.png">
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119421667-9b084b00-bcd5-11eb-9780-2ae32f561025.png">
 <img align="left" width="50px" src="https://user-images.githubusercontent.com/48317736/119422124-b889e480-bcd6-11eb-9d0c-c6bfb934e42f.png">
-<img align="left" width="40px" margin-top= "10px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg">
+<img align="left" width="40px" margin-top= "50px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/typescript.svg">
 <img align="left" width="40px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/angular.svg">
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119423482-c55c0780-bcd9-11eb-95df-4fa5e8f9064e.png">
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119423760-6fd42a80-bcda-11eb-8861-18a2920c9ebf.png">

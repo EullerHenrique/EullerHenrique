@@ -31,5 +31,3 @@
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119423482-c55c0780-bcd9-11eb-95df-4fa5e8f9064e.png">
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119423760-6fd42a80-bcda-11eb-8861-18a2920c9ebf.png">
 <img align="left" width="40px" src="https://user-images.githubusercontent.com/48317736/119424303-8f1f8780-bcdb-11eb-885d-6804d4308bfb.png">
-
-![Snake animation](https://github.com/EullerHenrique/EullerHenrique/blob/output/github-contribution-grid-snake.svg)

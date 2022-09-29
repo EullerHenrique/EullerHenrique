@@ -5,9 +5,8 @@
 ### I am a Student of Information Systems at the Federal University of Uberlândia
 - 📖 I'm currently reading Domain Driven Design - Eric Evans
 - 📚 I'm currently studying the subjects:
-  - Project and development of information systems 1
-  - Human-computer interaction
-  - Project Management and Information Technology
+  - Project and development of information systems 2
+  - Distributed systems
 -  <a href="https://www.linkedin.com/in/eullerhenrique/"><img src="https://user-images.githubusercontent.com/48317736/119419795-66929000-bcd1-11eb-8ae9-cad609aa6790.png" height="40px;" alt="LinkedIn" /></a>&nbsp;
 
 ### Languages and Tools: 
